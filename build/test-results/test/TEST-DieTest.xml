@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DieTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-11T11:58:44" hostname="sage-ThinkCentre-M73" time="0.019">
+  <properties/>
+  <testcase name="dieOutPutTest()" classname="DieTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
